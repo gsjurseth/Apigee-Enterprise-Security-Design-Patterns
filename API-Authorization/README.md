@@ -26,7 +26,7 @@ The design pattern refers to a high level reference architecture, a well-defined
 ## Decision Graph
 Here is the graph that helps you pick the design pattern that fulfills your enterprise security requirements.
 
-![alt text](./assets/images/auth_decision_graph.png "Auth Decision Graph")
+![Auth Decision Graph](./assets/images/auth_decision_graph.png "Auth Decision Graph")
 
 Here are detailed of key decision you make in the above decision graph:
 
@@ -52,8 +52,8 @@ Each green hexagon represents a design pattern that is derived based on above de
 
 Apigee Auth Pattern 2A (coming soon..)
 
-Apigee IdP Pattern 2B (coming soon..)
+Apigee Auth Pattern 2B (coming soon..)
 
-Apigee IdP Pattern 3A (coming soon..)
+Apigee Auth Pattern 3A (coming soon..)
 
-Apigee IdP Pattern 3B (coming soon..)
+Apigee Auth Pattern 3B (coming soon..)
